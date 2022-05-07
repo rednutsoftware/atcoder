@@ -1,3 +1,4 @@
+#
 CXX = g++
 CXXFLAGS = -Wall -Werror -Wextra -pedantic -std=c++17 -g
 CXXFLAGS += -DNO_PROBLEM_MAIN
